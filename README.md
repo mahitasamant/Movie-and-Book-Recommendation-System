@@ -3,4 +3,8 @@ This is a simple movie recommendation system built using Non-Negative Matrix Fac
 # DEMO VIDEO
 https://youtu.be/3YYuvRX4Zz4
 
+# Prerequisites
+Python 3.7 or higher
+Streamlit library
+pandas library
 
